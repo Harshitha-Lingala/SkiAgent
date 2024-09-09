@@ -1,1 +1,2 @@
 # SkiAgent
+This project is a Conversational AI Agent designed to simplify the process of planning ski trips by seamlessly integrating real-time data from various sources. Developed as part of the Google AI Hackathon, in collaboration with Manvitha Ponnapati and Brian Lynch, this AI-driven tool offers users a streamlined and interactive way to organize their ski trips. The agent leverages APIs for weather forecasting, route planning, and travel recommendations, ensuring that all aspects of your ski trip are covered with up-to-date information.
